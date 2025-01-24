@@ -2,7 +2,11 @@
 
 This repository contains a Python-based project that utilizes `YOLOv8` (You Only Look Once) object detection model for detecting objects from videos, RTSP streams, or GIF files. It provides a user-friendly Graphical User Interface (GUI) built using `Tkinter`.
 
+## Demo
 
+Check out the Shoplift Detection System in action below:
+
+![Shoplift Detection Demo](ezgif.com-video-to-gif-converter.gif)
 
 ## Features
 
