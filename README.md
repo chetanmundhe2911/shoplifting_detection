@@ -44,7 +44,7 @@ pip install ultralytics opencv-python-headless tk pillow
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your_username/shoplift-detection-system.git
+   git clone https://github.com/chetanmundhe2911/shoplifting_detection.git
    cd shoplift-detection-system
    ```
 2. Place the YOLOv8 model file `best_model_v7.pt` in the same directory as the script.
