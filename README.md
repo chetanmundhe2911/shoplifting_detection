@@ -54,7 +54,7 @@ pip install ultralytics opencv-python-headless tk pillow
    ```
 4. Run the application:
    ```bash
-   python shoplift_detection.py
+   streamlit run shoplift_detection.py
    ```
 
 ---
