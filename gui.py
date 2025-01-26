@@ -137,6 +137,10 @@ class VideoApp:
     def quit_app(self, event=None):
         self.master.quit()
 
+
+
+## Updated code
+
 # Create the main window
 root = tk.Tk()
 app = VideoApp(root)
