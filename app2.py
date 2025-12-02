@@ -144,3 +144,5 @@ upload_button = Button(root, text="Upload Video/GIF", command=upload_file, font=
 upload_button.pack(pady=10)
 
 root.mainloop()
+
+#-----------------
