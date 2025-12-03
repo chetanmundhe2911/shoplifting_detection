@@ -139,7 +139,7 @@ class VideoApp:
 
 
 
-## Updated code...
+## Updated code.........
 
 # Create the main window
 root = tk.Tk()
