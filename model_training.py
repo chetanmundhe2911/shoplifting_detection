@@ -145,6 +145,8 @@ shoplifting_folder = 'shoplifting_videos'
 normal_folder = 'normal_videos'
 output_model_path = 'best_model_v8.pt'
 
+#-------
+
 print(f"Current working directory: {os.getcwd()}")
 process_and_train(shoplifting_folder, normal_folder, output_model_path)
 
